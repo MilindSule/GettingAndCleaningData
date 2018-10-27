@@ -1,5 +1,5 @@
 # GettingAndCleaningData
-## This document describes, how the script works
+## This document describes, how the "run_analysis.R" script works
 
 ### Preparation:
   Setup the data directory and download data files from the website.
